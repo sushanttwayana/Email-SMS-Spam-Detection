@@ -1,0 +1,19 @@
+Ham SMS (Non-Spam)
+"Hey, are we still on for dinner tonight at 7?"
+"Don't forget to pick up groceries on your way home."
+"Happy Birthday! Wishing you a fantastic year ahead."
+"Let's meet at the park this weekend for a quick catch-up."
+"Your package has been delivered. Please check your mailbox."
+"Hi! Just checking in to see how you're doing."
+"Good morning! Hope you have a great day at work."
+"Your order has been shipped and will arrive in 3-5 business days."
+"I'm running a bit late but will be there in 10 minutes."
+
+
+
+Spam SMS
+"Congratulations! You've won a $1,000 gift card. Click the link to claim your prize: [spam-link]."
+"Urgent! Your account has been compromised. Reply with your bank details to secure your funds."
+"Claim your free vacation package now! Call us at 1-800-SPAM to book
+"Win a new iPhone 15 by entering our free raffle. Click here to participate
+GENT! We are trying to contact you. Last weekends draw shows that you won a å£1000 prize GUARANTEED. Call 09064012160. Claim Code K52. Valid 12hrs only. 150ppm
