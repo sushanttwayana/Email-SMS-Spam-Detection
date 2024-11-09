@@ -46,6 +46,12 @@ The Naive Bayes model achieved:
 Accuracy: 98.5%
 Precision: 99.7%
 
+![image](https://github.com/user-attachments/assets/a1be9d14-cb51-4f55-b242-e8f0a726121f)
+
+![image](https://github.com/user-attachments/assets/8b9a2c0e-ef00-4200-b5ce-4173fa387f8b)
+
+
+
 These metrics demonstrate the model's ability to accurately identify spam messages while minimizing false positives.
 
 💡 Future Improvements
