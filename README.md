@@ -1,4 +1,6 @@
-📧 Spam Classification System for Emails and SMS Messages
+# 📧 Spam Classification System for Emails and SMS Messages
+
+
 🎯 Project Overview
 This project aims to build a Spam Classification System for identifying unwanted promotional content in emails and SMS messages. The system leverages machine learning algorithms to differentiate between spam and non-spam (ham) messages, providing an effective solution to manage unwanted communications.
 The project was deployed using Streamlit for a seamless and interactive user experience.
@@ -31,3 +33,17 @@ The Naive Bayes Classifier performed the best, leveraging its strength in text d
 🚀 Deployment
 The final spam classification model was deployed using Streamlit, providing a simple and interactive user interface. The app allows users to input email or SMS text and classify it as spam or ham in real-time.
 
+📈 Results
+The Naive Bayes model achieved:
+
+Accuracy: 98.5%
+Precision: 99.7%
+
+These metrics demonstrate the model's ability to accurately identify spam messages while minimizing false positives.
+
+💡 Future Improvements
+Possible enhancements for this project include:
+
+Integrating deep learning models (e.g., LSTM, BERT) for improved text understanding.
+Expanding the dataset with more diverse and recent spam messages.
+Adding language support for spam detection in different languages.
